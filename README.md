@@ -1,8 +1,6 @@
 # appointment-service
 Appointment-service
 
-AWS URL: https://hcl-aws-gp-cnc.signin.aws.amazon.com/console
-
 Please find a link to architecture diagram: https://www.imghippo.com/i/GVLO5933qI.png
 
 
