@@ -29,21 +29,7 @@ This project sets up a complete infrastructure on AWS to deploy containerized mi
 
 ---
 
-## 📁 Project Structure
 
-.
-├── .github/workflows/ # GitHub Actions
-├── Dockerfile # For microservice
-├── main.tf # Terraform main config
-├── provider.tf # AWS provider
-├── variables.tf # Input variables
-├── outputs.tf # Output values
-├── terraform.tfvars # Variable values
-├── manifests/ # Kubernetes YAMLs
-
-yaml
-Copy
-Edit
 
 ---
 
